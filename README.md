@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @WentingFANG
-- 👀 I’m interested in law + code + data.
+- 👀 I’m interested in law + data + code.
 - 🌱 I’m currently learning computational law.
